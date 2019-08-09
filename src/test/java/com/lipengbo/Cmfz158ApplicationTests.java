@@ -12,5 +12,6 @@ public class Cmfz158ApplicationTests {
     @Test
     public void contextLoads() {
         System.out.println("啦啦啦啦啦");
+        System.out.println("hahhahah");
     }
 }
